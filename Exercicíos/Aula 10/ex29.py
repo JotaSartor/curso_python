@@ -1,5 +1,5 @@
 limite_velocidade = 50
-velocidade_carro = int(input('Digite a velocidade que o carro passou no radar: '))
+velocidade_carro = float(input('Digite a velocidade que o carro passou no radar: '))
 multa = (velocidade_carro - 50) * 7
 
 if velocidade_carro < limite_velocidade:
