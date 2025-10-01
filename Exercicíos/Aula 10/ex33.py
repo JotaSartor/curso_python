@@ -3,7 +3,7 @@ n2 = int(input('Digite o segundo número: '))
 n3 = int(input('Digite o segundo número: '))
 
 maior = n1
-menor = n2
+menor = n1
 
 if n2 > maior:
     maior = n2
