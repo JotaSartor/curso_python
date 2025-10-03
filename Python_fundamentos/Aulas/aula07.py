@@ -1,4 +1,5 @@
 # OPERADORES ARITMÉTICOS
+
 n1 = int(input('um valor: '))
 n2 = int(input('um valor: '))
 s = n1 + n2 # Adição

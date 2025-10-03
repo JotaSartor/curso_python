@@ -1,3 +1,5 @@
+#CONDIÇÕES
+
 nome = str(input('Qual é seu nome? '))
 
 if nome == 'João':

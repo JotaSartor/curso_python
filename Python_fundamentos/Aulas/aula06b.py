@@ -1,3 +1,5 @@
+#TIPOS PRIMITIOS E SAÍDA DE DADOS
+
 x = (input('Digite um valor: '))
 
 print('O tipo primitivo desse valor é: ', type(x))

@@ -1,3 +1,5 @@
+#MANIPULANDO TEXTO
+
 #frase.split() = Separa uma string em numerações. A separação é feita pelo carácter de "split", também conhecido por espaço. De forma mais técnica 
 #o split gera uma lista com cada palavra de uma cadeia de carácteres.
 
