@@ -1,3 +1,1 @@
 print(('-=-'*20),'\033[32mCLASSIFICAÇÃO DE ATLETAS\033[m',('-=-'*20))
-
-ano = int(input('Digite o ano de nascimento do atleta: '))
