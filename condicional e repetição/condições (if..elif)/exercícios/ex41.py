@@ -25,3 +25,4 @@ elif senior is True:
     print(f'\033[7;30;40mEsse atleta se encaixará na categoria:\033[m \033[4;34mSÊNIOR\033[m')
 elif master is True:
     print(f'\033[7;30;40mEsse atleta se encaixará na categoria:\033[m \033[4;31mMASTER\033[m')
+    
