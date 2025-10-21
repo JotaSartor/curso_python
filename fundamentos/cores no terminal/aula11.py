@@ -9,8 +9,8 @@
 #                  |  34    Blue     |   Azul      44
 #                  |  35    Magenta  |   Magenta   45
 #                  |  36    Cyan     |   Ciano     46
-#                  |  37    Grey     |   Cinza     47
-#                  |  97    White    |   Branco    107
+#                  |  97    Grey     |   Cinza     47
+#                  |  77    White    |   Branco    107
 
 
 
