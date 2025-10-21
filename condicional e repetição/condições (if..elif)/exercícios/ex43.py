@@ -4,8 +4,8 @@ print(('-=-'*5),'\033[1mPara calcular o IMC, informe.',('-=-'*5))
 
 print('\033[m')
 
-altura = float(input('\033[1mSua altura:\033[m \033[4;33m'))
-peso = int(input('\033[m\033[1mSeu peso:\033[m \033[4;33m'))
+altura = float(input('\033[1mSua altura (m):\033[m \033[4;33m'))
+peso = int(input('\033[m\033[1mSeu peso (Kg):\033[m \033[4;33m'))
 
 print('\033[m')
 
